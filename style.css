@@ -1,0 +1,18 @@
+body {
+  color: black;
+  background-color: crimson;
+}
+.heading {
+  width: 80%;
+  font-size: 22px;
+}
+#camera {
+  border: 5px dashed white;
+  width: 350px;
+  height: 300px;
+}
+.nameOfObjects,
+#resultObjectName,
+#resultObjectAccuracy {
+  color: black;
+}
